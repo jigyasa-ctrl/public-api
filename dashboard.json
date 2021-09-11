@@ -75,5 +75,22 @@
         { "name": "Basic Tees", "value": 400 },
         { "name": "Custom Pants", "value": 300 },
         { "name": "Super Hoodies", "value": 300 }
+      ],
+      [
+          {
+              "title": "Meeting with Suppliers",
+              "time":"12:00-14:00",
+              "location":"at Central Perk"
+          },
+          {
+            "title": "Check Operation at Giga Factory 1",
+            "time":"14:00-15:00",
+            "location":"at Central Jakara"
+        },
+        {
+            "title": "Meeting with Suppliers",
+            "time":"18:00-2:00",
+            "location":"at central perk"
+        }
       ]
 ]
