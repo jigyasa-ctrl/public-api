@@ -2,21 +2,28 @@
     "totalRevenue":{
         "title": "Total Revenue",
         "value": "$2,129,430",
-        "color":"#DDEFE0"
+        "color":"#DDEFE0",
+        "link": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-like-project-management-and-development-flatart-icons-outline-flatarticons.png"
+   
     },
     "TotalTransaction":{
         "title":"Total Transaction",
         "value": "1,520",
-        "color":"#F4ECDD"
+        "color":"#F4ECDD",
+        "link": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-like-project-management-and-development-flatart-icons-outline-flatarticons.png"
+   
     },
     "Likes":{
         "title":"Total Likes",
         "value":"9,721",
-        "color":"#EFDADA"
+        "color":"#EFDADA",
+        "link": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-like-project-management-and-development-flatart-icons-outline-flatarticons.png"
+   
     },
     "Users":{
         "title":"Total Likes",
         "vale":"892",
-        "color":"#DEE0EF"
+        "color":"#DEE0EF",
+        "link": "https://img.icons8.com/ios/50/000000/user--v1.png"
     }
 }]
