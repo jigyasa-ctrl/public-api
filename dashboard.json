@@ -148,5 +148,10 @@
       "gender": "Female",
       "userRole": "User"
     }
-  ]
+  ],
+  {
+    "dob":"22/07/1998",
+    "number":"813456789",
+    "address":"323 Fifth Ave. Canadiana, NY"
+  }
 ]
