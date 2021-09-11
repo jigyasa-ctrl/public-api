@@ -70,5 +70,10 @@
           "Users": 4300,
           "amt": 2100
         }
+      ],
+      [
+        { "name": "Basic Tees", "value": 400 },
+        { "name": "Custom Short Pants", "value": 300 },
+        { "name": "Super Hoodies", "value": 300 }
       ]
 ]
