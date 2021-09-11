@@ -26,4 +26,49 @@
         "color":"#DEE0EF",
         "link": "https://img.icons8.com/ios/50/000000/user--v1.png"
     }
-}]
+},
+    [
+        {
+          "name": "Week 1",
+          "Guest": 4000,
+          "Users": 2400,
+          "amt": 2400
+        },
+        {
+          "name": "Week 2",
+          "Guest": 3000,
+          "Users": 1398,
+          "amt": 2210
+        },
+        {
+          "name": "Week 3",
+          "Guest": 2000,
+          "Users": 9800,
+          "amt": 2290
+        },
+        {
+          "name": "Week 4",
+          "Guest": 2780,
+          "Users": 3908,
+          "amt": 2000
+        },
+        {
+          "name": "Week 5",
+          "Guest": 1890,
+          "Users": 4800,
+          "amt": 2181
+        },
+        {
+          "name": "Week 6",
+          "Guest": 2390,
+          "Users": 3800,
+          "amt": 2500
+        },
+        {
+          "name": "Week 7",
+          "Guest": 3490,
+          "Users": 4300,
+          "amt": 2100
+        }
+      ]
+]
